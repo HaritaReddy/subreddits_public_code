@@ -67,3 +67,5 @@ subreddits_processor.py: Processes rules in raw_scraped_rules/ by breaking down 
 
 In the above example on 28th June 2018 (first key), there were no rules. On 29th July 2019, two rules are present. On 13th August 2019, 3 rules are present.
 
+
+Harita Reddy and Eshwar Chandrasekharan. 2023. Evolution of Rules in Reddit Communities. In Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing (CSCW '23 Companion). Association for Computing Machinery, New York, NY, USA, 278–282. https://doi.org/10.1145/3584931.3606973
